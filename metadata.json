@@ -1,0 +1,6 @@
+{
+  "name": "HR 抽籤與自動分組工具",
+  "description": "提供名單上傳(CSV/貼上文字)、獎品隨機抽籤(支援重複與不重複抽籤及動畫效果)以及視覺化團隊自動分組功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
